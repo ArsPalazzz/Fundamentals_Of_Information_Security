@@ -1,0 +1,14 @@
+E:\Универ\Лабораторные работы\3 семестр\ОИБ\лаба 4\ЛР №6.1\ЛР №6.1\bin\Debug\netcoreapp3.1\ЛР №6.1.exe
+E:\Универ\Лабораторные работы\3 семестр\ОИБ\лаба 4\ЛР №6.1\ЛР №6.1\bin\Debug\netcoreapp3.1\ЛР №6.1.deps.json
+E:\Универ\Лабораторные работы\3 семестр\ОИБ\лаба 4\ЛР №6.1\ЛР №6.1\bin\Debug\netcoreapp3.1\ЛР №6.1.runtimeconfig.json
+E:\Универ\Лабораторные работы\3 семестр\ОИБ\лаба 4\ЛР №6.1\ЛР №6.1\bin\Debug\netcoreapp3.1\ЛР №6.1.runtimeconfig.dev.json
+E:\Универ\Лабораторные работы\3 семестр\ОИБ\лаба 4\ЛР №6.1\ЛР №6.1\bin\Debug\netcoreapp3.1\ЛР №6.1.dll
+E:\Универ\Лабораторные работы\3 семестр\ОИБ\лаба 4\ЛР №6.1\ЛР №6.1\bin\Debug\netcoreapp3.1\ЛР №6.1.pdb
+E:\Универ\Лабораторные работы\3 семестр\ОИБ\лаба 4\ЛР №6.1\ЛР №6.1\obj\Debug\netcoreapp3.1\ЛР №6.1.csproj.AssemblyReference.cache
+E:\Универ\Лабораторные работы\3 семестр\ОИБ\лаба 4\ЛР №6.1\ЛР №6.1\obj\Debug\netcoreapp3.1\ЛР №6.1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Универ\Лабораторные работы\3 семестр\ОИБ\лаба 4\ЛР №6.1\ЛР №6.1\obj\Debug\netcoreapp3.1\ЛР №6.1.AssemblyInfoInputs.cache
+E:\Универ\Лабораторные работы\3 семестр\ОИБ\лаба 4\ЛР №6.1\ЛР №6.1\obj\Debug\netcoreapp3.1\ЛР №6.1.AssemblyInfo.cs
+E:\Универ\Лабораторные работы\3 семестр\ОИБ\лаба 4\ЛР №6.1\ЛР №6.1\obj\Debug\netcoreapp3.1\ЛР №6.1.csproj.CoreCompileInputs.cache
+E:\Универ\Лабораторные работы\3 семестр\ОИБ\лаба 4\ЛР №6.1\ЛР №6.1\obj\Debug\netcoreapp3.1\ЛР №6.1.dll
+E:\Универ\Лабораторные работы\3 семестр\ОИБ\лаба 4\ЛР №6.1\ЛР №6.1\obj\Debug\netcoreapp3.1\ЛР №6.1.pdb
+E:\Универ\Лабораторные работы\3 семестр\ОИБ\лаба 4\ЛР №6.1\ЛР №6.1\obj\Debug\netcoreapp3.1\ЛР №6.1.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\Study\ОИБ(Зачет)\лаба 4\laba421\bin\Debug\net6.0\laba421.exe
+D:\Study\ОИБ(Зачет)\лаба 4\laba421\bin\Debug\net6.0\laba421.deps.json
+D:\Study\ОИБ(Зачет)\лаба 4\laba421\bin\Debug\net6.0\laba421.runtimeconfig.json
+D:\Study\ОИБ(Зачет)\лаба 4\laba421\bin\Debug\net6.0\laba421.dll
+D:\Study\ОИБ(Зачет)\лаба 4\laba421\bin\Debug\net6.0\laba421.pdb
+D:\Study\ОИБ(Зачет)\лаба 4\laba421\obj\Debug\net6.0\laba421.csproj.AssemblyReference.cache
+D:\Study\ОИБ(Зачет)\лаба 4\laba421\obj\Debug\net6.0\laba421.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\ОИБ(Зачет)\лаба 4\laba421\obj\Debug\net6.0\laba421.AssemblyInfoInputs.cache
+D:\Study\ОИБ(Зачет)\лаба 4\laba421\obj\Debug\net6.0\laba421.AssemblyInfo.cs
+D:\Study\ОИБ(Зачет)\лаба 4\laba421\obj\Debug\net6.0\laba421.csproj.CoreCompileInputs.cache
+D:\Study\ОИБ(Зачет)\лаба 4\laba421\obj\Debug\net6.0\laba421.dll
+D:\Study\ОИБ(Зачет)\лаба 4\laba421\obj\Debug\net6.0\refint\laba421.dll
+D:\Study\ОИБ(Зачет)\лаба 4\laba421\obj\Debug\net6.0\laba421.pdb
+D:\Study\ОИБ(Зачет)\лаба 4\laba421\obj\Debug\net6.0\laba421.genruntimeconfig.cache
+D:\Study\ОИБ(Зачет)\лаба 4\laba421\obj\Debug\net6.0\ref\laba421.dll

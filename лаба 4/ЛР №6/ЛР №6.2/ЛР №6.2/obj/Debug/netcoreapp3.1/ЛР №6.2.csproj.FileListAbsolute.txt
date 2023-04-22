@@ -1,0 +1,28 @@
+E:\Универ\Лабораторные работы\3 семестр\ОИБ\лаба 4\ЛР №6.2\ЛР №6.2\bin\Debug\netcoreapp3.1\ЛР №6.2.exe
+E:\Универ\Лабораторные работы\3 семестр\ОИБ\лаба 4\ЛР №6.2\ЛР №6.2\bin\Debug\netcoreapp3.1\ЛР №6.2.deps.json
+E:\Универ\Лабораторные работы\3 семестр\ОИБ\лаба 4\ЛР №6.2\ЛР №6.2\bin\Debug\netcoreapp3.1\ЛР №6.2.runtimeconfig.json
+E:\Универ\Лабораторные работы\3 семестр\ОИБ\лаба 4\ЛР №6.2\ЛР №6.2\bin\Debug\netcoreapp3.1\ЛР №6.2.runtimeconfig.dev.json
+E:\Универ\Лабораторные работы\3 семестр\ОИБ\лаба 4\ЛР №6.2\ЛР №6.2\bin\Debug\netcoreapp3.1\ЛР №6.2.dll
+E:\Универ\Лабораторные работы\3 семестр\ОИБ\лаба 4\ЛР №6.2\ЛР №6.2\bin\Debug\netcoreapp3.1\ЛР №6.2.pdb
+E:\Универ\Лабораторные работы\3 семестр\ОИБ\лаба 4\ЛР №6.2\ЛР №6.2\obj\Debug\netcoreapp3.1\ЛР №6.2.csproj.AssemblyReference.cache
+E:\Универ\Лабораторные работы\3 семестр\ОИБ\лаба 4\ЛР №6.2\ЛР №6.2\obj\Debug\netcoreapp3.1\ЛР №6.2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Универ\Лабораторные работы\3 семестр\ОИБ\лаба 4\ЛР №6.2\ЛР №6.2\obj\Debug\netcoreapp3.1\ЛР №6.2.AssemblyInfoInputs.cache
+E:\Универ\Лабораторные работы\3 семестр\ОИБ\лаба 4\ЛР №6.2\ЛР №6.2\obj\Debug\netcoreapp3.1\ЛР №6.2.AssemblyInfo.cs
+E:\Универ\Лабораторные работы\3 семестр\ОИБ\лаба 4\ЛР №6.2\ЛР №6.2\obj\Debug\netcoreapp3.1\ЛР №6.2.csproj.CoreCompileInputs.cache
+E:\Универ\Лабораторные работы\3 семестр\ОИБ\лаба 4\ЛР №6.2\ЛР №6.2\obj\Debug\netcoreapp3.1\ЛР №6.2.dll
+E:\Универ\Лабораторные работы\3 семестр\ОИБ\лаба 4\ЛР №6.2\ЛР №6.2\obj\Debug\netcoreapp3.1\ЛР №6.2.pdb
+E:\Универ\Лабораторные работы\3 семестр\ОИБ\лаба 4\ЛР №6.2\ЛР №6.2\obj\Debug\netcoreapp3.1\ЛР №6.2.genruntimeconfig.cache
+D:\Study\ОИБ(Зачет)\лаба 4\ЛР №6\ЛР №6.2\ЛР №6.2\bin\Debug\netcoreapp3.1\ЛР №6.2.exe
+D:\Study\ОИБ(Зачет)\лаба 4\ЛР №6\ЛР №6.2\ЛР №6.2\bin\Debug\netcoreapp3.1\ЛР №6.2.deps.json
+D:\Study\ОИБ(Зачет)\лаба 4\ЛР №6\ЛР №6.2\ЛР №6.2\bin\Debug\netcoreapp3.1\ЛР №6.2.runtimeconfig.json
+D:\Study\ОИБ(Зачет)\лаба 4\ЛР №6\ЛР №6.2\ЛР №6.2\bin\Debug\netcoreapp3.1\ЛР №6.2.runtimeconfig.dev.json
+D:\Study\ОИБ(Зачет)\лаба 4\ЛР №6\ЛР №6.2\ЛР №6.2\bin\Debug\netcoreapp3.1\ЛР №6.2.dll
+D:\Study\ОИБ(Зачет)\лаба 4\ЛР №6\ЛР №6.2\ЛР №6.2\bin\Debug\netcoreapp3.1\ЛР №6.2.pdb
+D:\Study\ОИБ(Зачет)\лаба 4\ЛР №6\ЛР №6.2\ЛР №6.2\obj\Debug\netcoreapp3.1\ЛР №6.2.csproj.AssemblyReference.cache
+D:\Study\ОИБ(Зачет)\лаба 4\ЛР №6\ЛР №6.2\ЛР №6.2\obj\Debug\netcoreapp3.1\ЛР №6.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\ОИБ(Зачет)\лаба 4\ЛР №6\ЛР №6.2\ЛР №6.2\obj\Debug\netcoreapp3.1\ЛР №6.2.AssemblyInfoInputs.cache
+D:\Study\ОИБ(Зачет)\лаба 4\ЛР №6\ЛР №6.2\ЛР №6.2\obj\Debug\netcoreapp3.1\ЛР №6.2.AssemblyInfo.cs
+D:\Study\ОИБ(Зачет)\лаба 4\ЛР №6\ЛР №6.2\ЛР №6.2\obj\Debug\netcoreapp3.1\ЛР №6.2.csproj.CoreCompileInputs.cache
+D:\Study\ОИБ(Зачет)\лаба 4\ЛР №6\ЛР №6.2\ЛР №6.2\obj\Debug\netcoreapp3.1\ЛР №6.2.dll
+D:\Study\ОИБ(Зачет)\лаба 4\ЛР №6\ЛР №6.2\ЛР №6.2\obj\Debug\netcoreapp3.1\ЛР №6.2.pdb
+D:\Study\ОИБ(Зачет)\лаба 4\ЛР №6\ЛР №6.2\ЛР №6.2\obj\Debug\netcoreapp3.1\ЛР №6.2.genruntimeconfig.cache

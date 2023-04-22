@@ -1,0 +1,15 @@
+D:\Study\ОИБ(Зачет)\лаба 8\laba\bin\Debug\net6.0\laba.exe
+D:\Study\ОИБ(Зачет)\лаба 8\laba\bin\Debug\net6.0\laba.deps.json
+D:\Study\ОИБ(Зачет)\лаба 8\laba\bin\Debug\net6.0\laba.runtimeconfig.json
+D:\Study\ОИБ(Зачет)\лаба 8\laba\bin\Debug\net6.0\laba.dll
+D:\Study\ОИБ(Зачет)\лаба 8\laba\bin\Debug\net6.0\laba.pdb
+D:\Study\ОИБ(Зачет)\лаба 8\laba\obj\Debug\net6.0\laba.csproj.AssemblyReference.cache
+D:\Study\ОИБ(Зачет)\лаба 8\laba\obj\Debug\net6.0\laba.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\ОИБ(Зачет)\лаба 8\laba\obj\Debug\net6.0\laba.AssemblyInfoInputs.cache
+D:\Study\ОИБ(Зачет)\лаба 8\laba\obj\Debug\net6.0\laba.AssemblyInfo.cs
+D:\Study\ОИБ(Зачет)\лаба 8\laba\obj\Debug\net6.0\laba.csproj.CoreCompileInputs.cache
+D:\Study\ОИБ(Зачет)\лаба 8\laba\obj\Debug\net6.0\laba.dll
+D:\Study\ОИБ(Зачет)\лаба 8\laba\obj\Debug\net6.0\refint\laba.dll
+D:\Study\ОИБ(Зачет)\лаба 8\laba\obj\Debug\net6.0\laba.pdb
+D:\Study\ОИБ(Зачет)\лаба 8\laba\obj\Debug\net6.0\laba.genruntimeconfig.cache
+D:\Study\ОИБ(Зачет)\лаба 8\laba\obj\Debug\net6.0\ref\laba.dll
